@@ -1,0 +1,10 @@
+{
+  "name": "osc",
+  "version": "0.1.0",
+  "dependencies": {
+    "shelljs": "*",
+    "lodash": "*",
+    "readdir": "^0.0.13",
+    "node-osc": "^1.2.0"
+  }
+}

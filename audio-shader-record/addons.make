@@ -1,0 +1,5 @@
+ofxGui
+ofxOsc
+ofxVideoRecorder
+ofxAudioAnalyzer
+

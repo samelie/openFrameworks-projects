@@ -1,0 +1,5 @@
+*.mp4
+*.mov
+node_modules
+*.app
+.DS_Store
